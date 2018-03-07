@@ -1,4 +1,1 @@
 # Listicle
-# Flashcards
-# Flashcards
-# Flashcards
